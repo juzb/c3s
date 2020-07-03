@@ -1,0 +1,10 @@
+name: c3s
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.7
+  - tweepy
+  - jupyter
+

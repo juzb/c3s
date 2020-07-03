@@ -14,6 +14,7 @@ Check out short video on the project: [![Project video](img/video_thumbnail.png)
 
 ## Next Steps
 
+[Discuss here](https://github.com/juzb/c3s/issues/3#issue-650607257)
 - Improve modularity and reliability of the code
 - Add a distinction between climate change sceptic and climate change positive tweets
 - 
@@ -25,13 +26,13 @@ Check out short video on the project: [![Project video](img/video_thumbnail.png)
 **If you are a programer** - help us improve the tool. Contribute ideas by raising issues and commenting on the potential projects. Get to work on the implementation of important features. 
 <!-- # TODO: link issue here -->
 
-**If you have questions or suggestions on the project** - reach out to us on twitter: @juzb, 
+**If you have questions or suggestions on the project** - reach out to us on twitter: [@juzb](https://twitter.com/juluzb), 
 <!-- #TODO: add your handles, if you're fine with that -->
 
 ## What to communicate?
 
 We'd  like to have a discussion about this and hear from you! 
-Check out our issue  <!-- TODO: link issue here -->
+Check out our [issue](https://github.com/juzb/c3s/issues/1#issue-650606111) 
 Help us to figure out
 - what are the most urgent messages to convey
 - what is the the scientific evidence
@@ -39,7 +40,7 @@ Help us to figure out
 ## How to communicate?
 
 We'd  like to have a discussion about this and hear from you! 
-Check out our issue <!-- TODO: link issue here -->
+Check out our [issue](https://github.com/juzb/c3s/issues/2#issue-650606682)
 Help us to figure out
 - who needs to hear the messages the most
 - how the message should be conveyed to it reaches open ears
@@ -56,7 +57,11 @@ We want to make using our tool as simple as possible. In fact, you can start rig
 <!-- Hyperlink all of these -->
 1. clone this repository
 2. install conda
-3. create a conda environment with `tweepy` in `python3`
+3. create a conda environment with `tweepy` in `python3`: 
+ ```
+conda create -n c3s --file conda-env.yml
+conda activate c3s
+ ```
 4. get credentials for the Twitter API
 5. run the [notebook](code/sciathon_notebook.ipynb)
 
@@ -68,4 +73,6 @@ We are honored to have won the first prize in the sicathon's communicating clima
 
 ![Group picture](img/group_bisztray.png)
 
-Many thanks to the fantastic team of the Lindau Nobel Laureate meetings for the organisation of the sciathon and the open science days 2020. 
+Many thanks to the fantastic team of the Lindau Nobel Laureate meetings for the organisation of the sciathon and the open science days 2020.
+
+ 
