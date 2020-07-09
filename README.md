@@ -12,7 +12,7 @@ We want to help communicate relevant science on climate change as efficient as p
 
 Check out short video on the project: [![Project video](img/video_thumbnail.png)](https://youtu.be/3t5OFxMSSF0)
 
-## Next Steps
+## Next Steps in Coding
 
 [Discuss here](https://github.com/juzb/c3s/issues/3#issue-650607257)
 - Improve modularity and reliability of the code
@@ -35,7 +35,7 @@ We'd  like to have a discussion about this and hear from you!
 Check out our [issue](https://github.com/juzb/c3s/issues/1#issue-650606111) 
 Help us to figure out
 - what are the most urgent messages to convey
-- what is the the scientific evidence
+- what is the scientific evidence
 
 ## How to communicate?
 
@@ -67,12 +67,12 @@ conda activate c3s
 
 ## Attributions
 
-This project started off with team Bisztray in the Lindau Nobel Laureate Metings Sciathon 2020:
+This project started off with team Bisztray in the Lindau Nobel Laureate Meetings [Online Sciathon 2020](http://sciathon.org/):
 
 We are honored to have won the first prize in the sicathon's communicating climate change section amongst many great projects!
 
 ![Group picture](img/group_bisztray.png)
 
-Many thanks to the fantastic team of the Lindau Nobel Laureate meetings for the organisation of the sciathon and the open science days 2020.
+Many thanks to the fantastic team of the [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) for the organisation of the sciathon and the [Online Science Days 2020](http://science-days.org/).
 
  
