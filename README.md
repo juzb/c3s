@@ -12,22 +12,19 @@ We want to help communicate relevant science on climate change as efficient as p
 
 Check out short video on the project: [![Project video](img/video_thumbnail.png)](https://youtu.be/3t5OFxMSSF0)
 
-## Next Steps in Coding
-
-[Discuss here](https://github.com/juzb/c3s/issues/3#issue-650607257)
-- Improve modularity and reliability of the code
-- Add a distinction between climate change sceptic and climate change positive tweets
-- 
 
 ## What can I do?
 
 **If you are working on communicating climate change** - let us know about your work, contribute your expertise to the project by commenting on the issues below 
 
-**If you are a programer** - help us improve the tool. Contribute ideas by raising issues and commenting on the potential projects. Get to work on the implementation of important features. 
+**If you are a programmer** - help us improve the tool. Contribute ideas by raising issues and commenting on the potential projects. Get to work on the implementation of important features. 
 <!-- # TODO: link issue here -->
 
 **If you have questions or suggestions on the project** - reach out to us on twitter: [@juzb](https://twitter.com/juluzb), 
 <!-- #TODO: add your handles, if you're fine with that -->
+
+**If you want to jump right into it** - check out our [analysis notebook]((https://github.com/juzb/c3s/blob/master/code/sciathon_notebook.ipynb))
+
 
 ## What to communicate?
 
@@ -36,6 +33,7 @@ Check out our [issue](https://github.com/juzb/c3s/issues/1#issue-650606111)
 Help us to figure out
 - what are the most urgent messages to convey
 - what is the scientific evidence
+
 
 ## How to communicate?
 
@@ -46,12 +44,23 @@ Help us to figure out
 - how the message should be conveyed to it reaches open ears
 
 
+## Next Steps in Coding
+
+[Discuss here](https://github.com/juzb/c3s/issues/3#issue-650607257)
+- Improve modularity and reliability of the code
+- Add a distinction between climate change sceptic and climate change positive tweets
+- Write comprehensive records to a restorable format (when a colab notebook dies, a lot of pgoress is lost otherwise)
+
 # Using the c3s tool
 
 We want to make using our tool as simple as possible. In fact, you can start right now in a colab notebook or locally:
+Though you will need keys to access the Twitter API - check [their documentation here](https://developer.twitter.com/en/docs/basics/authentication/overview).
 
 ## Colab:
-<!-- #TODO: figure out how to make the colab notebook run the newest version from github -->
+
+Just open this [link to our analysis notebook in google colab](https://github.com/juzb/c3s/blob/master/code/sciathon_notebook.ipynb).
+
+You will have to overwrite the part where the keys are loaded and set them manually. 
 
 ## Locally:
 <!-- Hyperlink all of these -->
