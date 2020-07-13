@@ -23,7 +23,7 @@ Check out short video on the project: [![Project video](img/video_thumbnail.png)
 **If you have questions or suggestions on the project** - reach out to us on twitter: [@juzb](https://twitter.com/juluzb), 
 <!-- #TODO: add your handles, if you're fine with that -->
 
-**If you want to jump right into it** - check out our [analysis notebook]((https://github.com/juzb/c3s/blob/master/code/sciathon_notebook.ipynb))
+**If you want to jump right into it** - check out our [analysis notebook](https://colab.research.google.com/github/juzb/c3s/blob/master/code/sciathon_notebook.ipynb)
 
 
 ## What to communicate?
@@ -58,7 +58,7 @@ Though you will need keys to access the Twitter API - check [their documentation
 
 ## Colab:
 
-Just open this [link to our analysis notebook in google colab](https://github.com/juzb/c3s/blob/master/code/sciathon_notebook.ipynb).
+Just open this [link to our analysis notebook in google colab](https://colab.research.google.com/github/juzb/c3s/blob/master/code/sciathon_notebook.ipynb).
 
 You will have to overwrite the part where the keys are loaded and set them manually. 
 
